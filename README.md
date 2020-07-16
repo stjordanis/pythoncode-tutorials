@@ -26,6 +26,8 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [How to Brute Force FTP Servers in Python](https://www.thepythoncode.com/article/brute-force-attack-ftp-servers-using-ftplib-in-python). ([code](ethical-hacking/ftp-cracker))
     - [How to Extract Image Metadata in Python](https://www.thepythoncode.com/article/extracting-image-metadata-in-python). ([code](ethical-hacking/image-metadata-extractor))
     - [How to Crack Zip File Passwords in Python](https://www.thepythoncode.com/article/crack-zip-file-password-in-python). ([code](ethical-hacking/zipfile-cracker))
+    - [How to Crack PDF Files in Python](https://www.thepythoncode.com/article/crack-pdf-file-password-in-python). ([code](ethical-hacking/pdf-cracker))
+    - [How to Build a SQL Injection Scanner in Python](https://www.thepythoncode.com/code/sql-injection-vulnerability-detector-in-python). ([code](ethical-hacking/sql-injection-detector))
 
 - ### [Machine Learning](https://www.thepythoncode.com/topic/machine-learning)
     - ### [Natural Language Processing](https://www.thepythoncode.com/topic/nlp)
@@ -43,11 +45,13 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
         - [How to Use K-Means Clustering for Image Segmentation using OpenCV in Python](https://www.thepythoncode.com/article/kmeans-for-image-segmentation-opencv-python). ([code](machine-learning/kmeans-image-segmentation))
         - [How to Perform YOLO Object Detection using OpenCV and PyTorch in Python](https://www.thepythoncode.com/article/yolo-object-detection-with-opencv-and-pytorch-in-python). ([code](machine-learning/object-detection))
         - [How to Blur Faces in Images using OpenCV in Python](https://www.thepythoncode.com/article/blur-faces-in-images-using-opencv-in-python). ([code](machine-learning/blur-faces))
+        - [Skin Cancer Detection using TensorFlow in Python](https://www.thepythoncode.com/article/skin-cancer-detection-using-tensorflow-in-python). ([code](machine-learning/skin-cancer-detection))
     - [Building a Speech Emotion Recognizer using Scikit-learn](https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn). ([code](machine-learning/speech-emotion-recognition))
     - [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python). ([code](machine-learning/speech-recognition))
     - [Top 8 Python Libraries For Data Scientists and Machine Learning Engineers](https://www.thepythoncode.com/article/top-python-libraries-for-data-scientists).
     - [How to Predict Stock Prices in Python using TensorFlow 2 and Keras](https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras). ([code](machine-learning/stock-prediction))
     - [How to Convert Text to Speech in Python](https://www.thepythoncode.com/article/convert-text-to-speech-in-python). ([code](machine-learning/text-to-speech))
+    - [How to Perform Voice Gender Recognition using TensorFlow in Python](https://www.thepythoncode.com/article/gender-recognition-by-voice-using-tensorflow-in-python). ([code](https://github.com/x4nth055/gender-recognition-by-voice))
     
 
 - ### [General Python Topics](https://www.thepythoncode.com/topic/general-python-topics)
@@ -90,11 +94,21 @@ This is a repository of all the tutorials of [The Python Code](https://www.thepy
     - [How to List all Files and Directories in FTP Server using Python](https://www.thepythoncode.com/article/list-files-and-directories-in-ftp-server-in-python). ([code](python-standard-library/listing-files-in-ftp-server))
     - [How to Read Emails in Python](https://www.thepythoncode.com/article/reading-emails-in-python). ([code](python-standard-library/reading-email-messages))
     - [How to Download and Upload Files in FTP Server using Python](https://www.thepythoncode.com/article/download-and-upload-files-in-ftp-server-using-python). ([code](python-standard-library/download-and-upload-files-in-ftp))
+    - [How to Work with JSON Files in Python](https://www.thepythoncode.com/article/working-with-json-files-in-python). ([code](python-standard-library/working-with-json))
+    - [How to Use Regular Expressions in Python](https://www.thepythoncode.com/article/work-with-regular-expressions-in-python). ([code](python-standard-library/regular-expressions))
 
 - ### [Using APIs](https://www.thepythoncode.com/topic/using-apis-in-python)
     - [How to Automate your VPS or Dedicated Server Management in Python](https://www.thepythoncode.com/article/automate-veesp-server-management-in-python). ([code](general/automating-server-management))
     - [How to Download Torrent Files in Python](https://www.thepythoncode.com/article/download-torrent-files-in-python). ([code](general/torrent-downloader))
     - [How to Use Google Custom Search Engine API in Python](https://www.thepythoncode.com/article/use-google-custom-search-engine-api-in-python). ([code](general/using-custom-search-engine-api))
     - [How to Use Github API in Python](https://www.thepythoncode.com/article/using-github-api-in-python). ([code](general/github-api))
+    - [How to Use Google Drive API in Python](https://www.thepythoncode.com/article/using-google-drive--api-in-python). ([code](general/using-google-drive-api))
+    - [How to Translate Text in Python](https://www.thepythoncode.com/article/translate-text-in-python). ([code](general/using-google-translate-api))
+    - [How to Make a URL Shortener in Python](https://www.thepythoncode.com/article/make-url-shortener-in-python). ([code](general/url-shortener))
+
+- ### [Database](https://www.thepythoncode.com/topic/using-databases-in-python)
+    - [How to Use MySQL Database in Python](https://www.thepythoncode.com/article/using-mysql-database-in-python). ([code](database/mysql-connector))
+    - [How to Connect to a Remote MySQL Database in Python](https://www.thepythoncode.com/article/connect-to-a-remote-mysql-server-in-python). ([code](database/connect-to-remote-mysql-server))
+    - [How to Use MongoDB Database in Python](https://www.thepythoncode.com/article/introduction-to-mongodb-in-python). ([code](database/mongodb-client))
 
 For any feedback, please consider pulling requests.
